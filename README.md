@@ -1,2 +1,3 @@
-# rust-playground-template
- cargo-generator's rust playground template repository
+# {{ project-name }}
+
+playground repository
